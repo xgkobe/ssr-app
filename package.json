@@ -1,0 +1,27 @@
+{
+  "name": "ssr-app",
+  "version": "1.0.0",
+  "description": "server-render",
+  "main": "main.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgkobe/ssr-app.git"
+  },
+  "author": "xuguang04@baidu.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xgkobe/ssr-app/issues"
+  },
+  "homepage": "https://github.com/xgkobe/ssr-app#readme",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
